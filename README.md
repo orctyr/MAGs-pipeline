@@ -1,9 +1,13 @@
 MAGs-pipeline
 
 This website contains the MAG construction pipeline for RMGMC Metagenome Project.
+<<<<<<< HEAD
 
 Including:
 
+=======
+Including:
+>>>>>>> 1e71593615c3955e766a52a43875c2a0ba6511ea
 (1) Reads quality control and low-quality reads timming
 
 (2) metagenome assembly using two tools
@@ -21,6 +25,7 @@ Including:
 (8) Taxonomy identification
 
 (9) maximum-likelihood tree construction based on MAGs
+<<<<<<< HEAD
 
 1. Package Required
 
@@ -88,3 +93,5 @@ Including:
       scripts will be generated in shell/ and run all scripts simultaneously
 	  
       
+=======
+>>>>>>> 1e71593615c3955e766a52a43875c2a0ba6511ea
