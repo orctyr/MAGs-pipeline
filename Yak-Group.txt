@@ -1,0 +1,11 @@
+Yak_Abomasum	Yak_Abomasum-1	Yak_Abomasum-2	Yak_Abomasum-3	Yak_Abomasum-4	Yak_Abomasum-5
+Yak_Cecum	Yak_Cecum-1	Yak_Cecum-2	Yak_Cecum-3	Yak_Cecum-4	Yak_Cecum-5
+Yak_Colon	Yak_Colon-1	Yak_Colon-2	Yak_Colon-3	Yak_Colon-4	Yak_Colon-5
+Yak_Duodenum	Yak_Duodenum-1	Yak_Duodenum-2	Yak_Duodenum-3	Yak_Duodenum-4	Yak_Duodenum-5
+Yak_Ileum	Yak_Ileum-1	Yak_Ileum-2	Yak_Ileum-3	Yak_Ileum-4	Yak_Ileum-5
+Yak_Jejunum	Yak_Jejunum-1	Yak_Jejunum-2	Yak_Jejunum-3	Yak_Jejunum-4	Yak_Jejunum-5
+Yak_Omasum	Yak_Omasum-1	Yak_Omasum-2	Yak_Omasum-3	Yak_Omasum-4	Yak_Omasum-5
+Yak_Rectum	Yak_Rectum-1	Yak_Rectum-2	Yak_Rectum-3	Yak_Rectum-4	Yak_Rectum-5
+Yak_Reticulum	Yak_Reticulum-1	Yak_Reticulum-2	Yak_Reticulum-3	Yak_Reticulum-4	Yak_Reticulum-5
+Yak_Rumen	Yak_Rumen-1	Yak_Rumen-2	Yak_Rumen-3	Yak_Rumen-4	Yak_Rumen-5
+Yak	Yak_Abomasum-1	Yak_Abomasum-2	Yak_Abomasum-3	Yak_Abomasum-4	Yak_Abomasum-5	Yak_Cecum-1	Yak_Cecum-2	Yak_Cecum-3	Yak_Cecum-4	Yak_Cecum-5	Yak_Colon-1	Yak_Colon-2	Yak_Colon-3	Yak_Colon-4	Yak_Colon-5	Yak_Duodenum-1	Yak_Duodenum-2	Yak_Duodenum-3	Yak_Duodenum-4	Yak_Duodenum-5	Yak_Ileum-1	Yak_Ileum-2	Yak_Ileum-3	Yak_Ileum-4	Yak_Ileum-5	Yak_Jejunum-1	Yak_Jejunum-2	Yak_Jejunum-3	Yak_Jejunum-4	Yak_Jejunum-5	Yak_Omasum-1	Yak_Omasum-2	Yak_Omasum-3	Yak_Omasum-4	Yak_Omasum-5	Yak_Rectum-1	Yak_Rectum-2	Yak_Rectum-3	Yak_Rectum-4	Yak_Rectum-5	Yak_Reticulum-1	Yak_Reticulum-2	Yak_Reticulum-3	Yak_Reticulum-4	Yak_Reticulum-5	Yak_Rumen-1	Yak_Rumen-2	Yak_Rumen-3	Yak_Rumen-4	Yak_Rumen-5
